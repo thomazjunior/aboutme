@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Wine-Storage',
+    description: "I used Next.JS, a powerful and efficient React framework for building server-side rendered web applications. This allowed me to create a fast and responsive website that provides a smooth user experience. I also used Material-UI, a popular React UI framework, to design the website's interface. For the website's content management system (CMS), I used Sanity, a headless CMS that offers great flexibility and scalability. This allowed the client to easily manage their product inventory, pricing, and other content.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Next.js', 'Sanity', 'Material-UI', 'Node'],
+    source: 'https://github.com/thomazjunior/webstore',
+    visit: 'https://universodosvinhos.vercel.app/',
     id: 0,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2014, text: 'Started my degree in Unigranrio University', },
+  { year: 2015, text: 'Worked as a public employee in Caixa Econômica Federal', },
+  { year: 2021, text: 'Moved to Portugal', },
+  { year: 2022, text: 'Started my current project in RandTech Computing how Full Stack Developer', },
+  { year: 2023, text: 'Started my new challenge how Tech Teacher', },
 ];

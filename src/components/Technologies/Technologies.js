@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with many different technologies in the web development world.
-      From Back-end to Front-end
+    I have a strong background in developing and implementing complex database structures using MySQL, and I am experienced in using Spring Boot to create robust backend systems. Additionally, I have expertise in building scalable and performant frontend applications using Next.Js and TypeScript.
     </SectionText>
     <List>
       <ListItem>

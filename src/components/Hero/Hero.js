@@ -12,7 +12,7 @@ const Hero = (props) => (
         my Personal Portfolio
       </SectionTitle>
       <SectionText>
-        The purpose of this website is to showcase my skills and projects...
+      My goal is to provide exceptional service to my clients by delivering high-quality work that meets their requirements and exceeds their expectations. If you are interested in working with me, please feel free to get in touch via my contact information below. Thank you for taking the time to visit my portfolio!
       </SectionText>
       <Button onClick={() => window.location = 'https://www.linkedin.com/in/paulo-thomaz-junior'}>Contact Me</Button>
     </LeftSection>

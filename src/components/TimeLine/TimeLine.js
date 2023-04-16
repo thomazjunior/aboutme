@@ -61,11 +61,9 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>My hopes and dreams for the future</SectionTitle>
       <SectionText>
-        I am a full-stack web developer with a passion for building web
-        applications. I have a passion for learning new technologies, and I love
-        be a Full Stack Developer.
+      In the future, I am looking forward to learning more about cloud computing technologies such as AWS and Kubernetes. I believe that these technologies will play an increasingly important role in the industry, and I am excited to expand my knowledge and skillset in this area.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
