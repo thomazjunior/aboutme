@@ -9,7 +9,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br />
-        my Personal Portfolio
+        my Personal Portfolio!
       </SectionTitle>
       <SectionText>
       My goal is to provide exceptional service to my clients by delivering high-quality work that meets their requirements and exceeds their expectations. If you are interested in working with me, please feel free to get in touch via my contact information below. Thank you for taking the time to visit my portfolio!
